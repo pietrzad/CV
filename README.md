@@ -1,3 +1,3 @@
 # CV
-- :smiley: Welcome to my CV repository!
-- :wink: Here you can find all neccesary infromation about my experience and skills
+- Welcome to my CV repository! :smiley: 
+- Here you can find all necessary information about my experience and skills :wink: 
