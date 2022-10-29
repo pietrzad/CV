@@ -7,6 +7,7 @@ body {
     display: flex;
     flex-direction: row-reverse;
     justify-content: center;
+    margin-top: 45px;
     margin: 0 auto;
     background: #ffffff;
     width: 1200px;
@@ -69,7 +70,7 @@ main {
 }
 
 .main-description {
-    width: 400px;
+    width: 600px;
 }
 
 .job-title {
