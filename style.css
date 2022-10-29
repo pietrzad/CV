@@ -7,7 +7,6 @@ body {
     display: flex;
     flex-direction: row-reverse;
     justify-content: center;
-    margin-top: 45px;
     margin: 0 auto;
     background: #ffffff;
     width: 1200px;
@@ -70,7 +69,7 @@ main {
 }
 
 .main-description {
-    width: 600px;
+    width: 900px;
 }
 
 .job-title {
@@ -91,6 +90,7 @@ h1 {
     line-height: 24px;
     margin-bottom: 40px;
     color: #595959;
+
 }
 
 .projects {
