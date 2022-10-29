@@ -143,12 +143,13 @@ h1 {
     color: #595959;
     padding: 0;
     list-style-position: inside;
+    margin-bottom: 30px;
 }
 
 h4 {
     font-weight: 700;
     font-size: 14px;
-    line-height: 17px;
+    line-height: 0px;
 }
 
 .education-block {
